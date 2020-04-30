@@ -12,6 +12,8 @@
 
 [![Build Status](https://semaphoreci.com/api/v1/carltesio/newsroom_3_client_user/branches/development/badge.svg)](https://semaphoreci.com/carltesio/newsroom_3_client_user)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/98447e29-8783-4d59-a895-c02d0318590f/deploy-status)](https://app.netlify.com/sites/ca-newspaperchallenge-t3/deploys)
+
 ## The code   
 This project is the visitor interface of the Newspaper Mars Times. Here the visitor can read free articles or sign up and buy a subsciption to aslo read premium articles. 
 The articles have been created and published from our Admin interface and are stored in our API.  
