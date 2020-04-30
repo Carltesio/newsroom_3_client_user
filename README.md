@@ -10,6 +10,8 @@
 **Testing framework:** Cypress  
 **Deployed at:** [Netlify](https://themarstimes.netlify.com/).
 
+[![Build Status](https://semaphoreci.com/api/v1/carltesio/newsroom_3_client_user/branches/development/badge.svg)](https://semaphoreci.com/carltesio/newsroom_3_client_user)
+
 ## The code   
 This project is the visitor interface of the Newspaper Mars Times. Here the visitor can read free articles or sign up and buy a subsciption to aslo read premium articles. 
 The articles have been created and published from our Admin interface and are stored in our API.  
