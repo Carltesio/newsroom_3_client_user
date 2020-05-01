@@ -12,8 +12,6 @@
 
 [![Build Status](https://semaphoreci.com/api/v1/carltesio/newsroom_3_client_user/branches/development/badge.svg)](https://semaphoreci.com/carltesio/newsroom_3_client_user)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/332df0fa-ebcd-4b4d-b232-4a8c6312b2fc/deploy-status)](https://app.netlify.com/sites/themarstimes/deploys)
-
 [![Netlify Status](https://api.netlify.com/api/v1/badges/98447e29-8783-4d59-a895-c02d0318590f/deploy-status)](https://app.netlify.com/sites/ca-newspaperchallenge-t3/deploys)
 
 ## The code   
